@@ -17,12 +17,10 @@ Transaction Tracker é um aplicativo desenvolvido em Java com Spring Boot para g
 - **Spring Data JPA**
 - **MySQL**
 - **Lombok**
-- **Swagger (OpenAPI)**
 
 ## Endpoints Disponíveis
 
 Os endpoints podem ser testados utilizando ferramentas como Insomnia ou Postman. Para documentar e testar, acesse:
-- `http://localhost:8080/swagger-ui.html` (se configurado corretamente).
 
 ### Endpoints Principais
 
